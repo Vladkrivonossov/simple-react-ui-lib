@@ -1,0 +1,15 @@
+.button {
+    color: #fff;
+    padding: 0.5rem 1rem;
+    border: 0;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+
+.button-primary {
+    background-color: #8543bf;
+}
+
+.button-success {
+    background-color: #27bf41;
+}
